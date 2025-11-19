@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "83262093826",
+    "project_id": "catatanpribadi-uts",
+    "storage_bucket": "catatanpribadi-uts.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83262093826:android:95829da363f53ad700451b",
+        "android_client_info": {
+          "package_name": "com.example.catatanpribadi_uts"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2Ot9SEH22r11bf7IPewFNcIVzDLpJ8xk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
